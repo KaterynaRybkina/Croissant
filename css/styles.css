@@ -19,3 +19,8 @@ footer a {
   display: block;
   margin: 30px auto;
 }
+
+.p-size {
+  max-width: 900px;
+  margin: 20px auto;
+}
